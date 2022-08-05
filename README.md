@@ -7,7 +7,7 @@ Michal Oblong / Rheinland-Pfalz, Germany
 [![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/NecrozOffical?tab=repositories&q=&type=&language=typescript)
 
 ## I´m workin on
-- TypeScript Discord bot on version 14 [Docs from discord.js](https://discord.js.org/)
+- TypeScript Discord bot on version 14 -> [Docs from discord.js](https://discord.js.org/)
 
 ## Social Media
 [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/778608747672371201)
