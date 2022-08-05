@@ -1,16 +1,24 @@
-### Hi there 👋
+# About me
+### Hey, I'm Michal 👋
 
-<!--
-**NecrozOffical/NecrozOffical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Michal Oblong / Rheinland-Pfalz, Germany
 
-Here are some ideas to get you started:
+## Languages
+[![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/NecrozOffical?tab=repositories&q=&type=&language=typescript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I´m workin on
+- TypeScript Discord bot on version 14 [Docs from discord.js](https://discord.js.org/)
+
+## Social Media
+[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/778608747672371201)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/necrozoffical/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://twitter.com/NecrozOffical)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000.svg?logo=youtube&logoColor=white&longCache=true&style=for-the-badge)](https://www.youtube.com/channel/UCplTiabkK3_zF-6zETpkzNw)
+
+## Security Solutions
+[![Bitdefender](https://img.shields.io/badge/-Bitdefender-ED1C24.svg?logo=Bitdefender&logoColor=white&longCache=true&style=for-the-badge)](https://www.bitdefender.de)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020.svg?logo=Cloudflare&logoColor=white&longCache=true&style=for-the-badge)](https://cloudflare.com)
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NecrozOffical&count_private=true&theme=tokyonight	)](https://github.com/NecrozOffical)
+[![stats](https://github-readme-stats.vercel.app/api?username=NecrozOffical&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/NecrozOffical)
