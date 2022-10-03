@@ -12,6 +12,7 @@ Michal Oblong / Rheinland-Pfalz, Germany
 - TypeScript Discord bot on version 14 -> [Docs from discord.js](https://discord.js.org/)
 
 ## Social Media
+[![Mail](https://img.shields.io/badge/-Mail-E34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://michal.o@lvckyworld.net)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/778608747672371201)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/necrozoffical/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://twitter.com/NecrozOffical)
