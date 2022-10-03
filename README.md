@@ -4,7 +4,9 @@
 Michal Oblong / Rheinland-Pfalz, Germany
 
 ## Languages
-[![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/NecrozOffical?tab=repositories&q=&type=&language=typescript)
+[![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=javascript)
+[![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=typescript)
+[![PhP](https://img.shields.io/badge/-php-848ebb.svg?logo=php&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=php)
 
 ## I´m workin on
 - TypeScript Discord bot on version 14 -> [Docs from discord.js](https://discord.js.org/)
