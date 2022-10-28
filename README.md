@@ -23,5 +23,5 @@ Michal Oblong / Rheinland-Pfalz, Germany
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020.svg?logo=Cloudflare&logoColor=white&longCache=true&style=for-the-badge)](https://cloudflare.com)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NecrozOffical&count_private=true&theme=tokyonight	)](https://github.com/NecrozOffical)
-[![stats](https://github-readme-stats.vercel.app/api?username=NecrozOffical&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/NecrozOffical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NecrozOffical&count_private=true&theme=tokyonight	)](https://github.com/NecrozAPI)
+[![stats](https://github-readme-stats.vercel.app/api?username=NecrozOffical&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/NecrozAPI)
