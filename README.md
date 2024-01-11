@@ -9,7 +9,7 @@ Michal Oblong / Rheinland-Pfalz, Germany
 [![PhP](https://img.shields.io/badge/-php-848ebb.svg?logo=php&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/LvckyAPI?tab=repositories&q=&type=&language=php)
 
 ## I´m workin on
-- TypeScript Discord bot on version 14 -> [Docs from discord.js](https://discord.js.org/)
+- Reloaded Discord Bot for LvckyWorld with newest discord.js version
 
 ## Social Media
 [![Mail](https://img.shields.io/badge/-Mail-E34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://michal.o@lvckyworld.net)
