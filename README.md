@@ -40,7 +40,7 @@ Michal Oblong / Rheinland-Pfalz, Germany
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020.svg?logo=Cloudflare&logoColor=white&longCache=true&style=for-the-badge)](https://cloudflare.com)
 
 ## Contact
-[![Discord Presence](https://lanyard.cnrad.dev/api/466986428107063306)](https://discord.com/users/778608747672371201)
+[![Discord Presence](https://lanyard.cnrad.dev/api/778608747672371201)](https://discord.com/users/778608747672371201)
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/778608747672371201)
 [![Mail](https://img.shields.io/badge/-Mail-E34133.svg?logo=gmail&logoColor=white&longCache=true&style=for-the-badge)](mailto://michal.o@lvckyworld.net)
