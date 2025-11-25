@@ -33,8 +33,6 @@ Michal Oblong / Rheinland-Pfalz, Germany
 ![Next.js](https://img.shields.io/badge/Next.js-1c1c1c.svg?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=NecrozAPI&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/NecrozAPI)
-
 ## Security Solutions
 [![Bitdefender](https://img.shields.io/badge/-Bitdefender-ED1C24.svg?logo=Bitdefender&logoColor=white&longCache=true&style=for-the-badge)](https://www.bitdefender.de)
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020.svg?logo=Cloudflare&logoColor=white&longCache=true&style=for-the-badge)](https://cloudflare.com)
