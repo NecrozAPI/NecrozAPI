@@ -1,7 +1,6 @@
 <div align=center>
 
-### Hey, I'm Michal 👋
-Michal Oblong / Rheinland-Pfalz, Germany
+### Hey, I'm Necroz 👋
 
 ## Techstack
 ### DevOps & Administration
